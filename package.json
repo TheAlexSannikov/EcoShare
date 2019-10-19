@@ -1,0 +1,22 @@
+{
+  "name": "ecoshare",
+  "version": "1.0.0",
+  "description": "Web platform that encourages people to take action to protect environment and share it with the rest of the world. Every small action contributes to the bigger cause.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klmui/EcoShare.git"
+  },
+  "author": "Kenneth Mui, Harry Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klmui/EcoShare/issues"
+  },
+  "homepage": "https://github.com/klmui/EcoShare#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
