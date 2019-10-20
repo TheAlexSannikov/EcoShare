@@ -1,0 +1,32 @@
+/* hackathon */
+body {
+   width: 100vw;
+   height: 100vh;
+   background: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/12-col/img%20(121).jpg") center center no-repeat;
+   background-size: cover;
+}
+#logo {
+   width: 100px;
+   color: green;
+   font-size: 50px;
+}
+
+.jumbotron {
+   position: fixed;
+   top: 30%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   padding: 30px 70px;
+   background-color: rgba(97, 107, 104, 0.5);
+   width: 80%;
+   color: white;
+   font-size: 25px;
+}
+
+.display-4 {
+   font-weight: bold;
+}
+
+.lead {
+   font-weight: normal;
+}
